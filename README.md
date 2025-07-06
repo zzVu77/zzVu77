@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate Frontend Developer who loves crafting cle
 ## 🚀 About Me
 
 - 🔭 I’m currently a student majoring in **Information Technology at HCMUTE**
-- 💡 I specialize in building modern web applications using **Next.js**, **React.js**,  **TypeScript**, **JavaScript**, **HTML/CSS**, and **Tailwind CSS**
+- 💡 I specialize in building modern web applications using **Next.js**, **React.js**,  **TypeScript**, **JavaScript**, **HTML/CSS**, **MUI** and **Tailwind CSS**
 - 🎯 I'm especially interested in **UI/UX design**, **Frontend animations**, and building smooth user experiences
 - 🧠 Currently exploring more about **Next.js**, **React.js**, **Node.js**, **Express.js**, **Golang**, and design systems
 
