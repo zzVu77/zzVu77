@@ -16,7 +16,6 @@ Welcome to my GitHub! I'm a passionate Frontend Developer who loves crafting cle
 - **Tools**: Git, Figma, Vite, VS Code, Wix Studio
 
 ## 📫 Get in Touch
-M
 - 📧 Email: vunguyen77.dev@gmail.com
 - 🌐 Portfolio: [vu77-portfolio.vercel.app](https://vu77-portfolio.vercel.app/)  
 - 💼 LinkedIn: [linkedin.com/in/vunguyen77-dev/](https://www.linkedin.com/in/vunguyen77-dev/)
